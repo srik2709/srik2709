@@ -27,7 +27,7 @@ This project is an interactive chatbot that allows users to have a conversation 
 * **Language Model:** `Llama 3` via the `Groq API` for real-time, streaming responses.
 * **User Interface:** Built with `Streamlit` for a fast, interactive user experience.
 
-**[View Project on GitHub]([link-to-your-project-repo])**
+**[View Project on GitHub](https://github.com/srik2709/YTChatbot)**
 
 ---
 
