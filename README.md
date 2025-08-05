@@ -5,7 +5,3 @@ I love to rapidly co-create incredible things with AI.
 **[My Site](https://srik2709.github.io/)**
 ### Let's Connect!
 **[LinkedIn](https://github.com/srik2709/YTChatbot)**
-
-
-
-
