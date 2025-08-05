@@ -89,5 +89,5 @@ This project is an interactive chatbot that allows users to have a conversation 
 I'm always open to connecting with fellow developers, researchers, and AI enthusiasts.
 
 <p align="left">
-  <a href="[your-linkedin-profile-url]" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/srilathakolli/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
