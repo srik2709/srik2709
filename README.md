@@ -30,19 +30,18 @@ This project is an interactive chatbot that allows users to have a conversation 
 ### Skills & Technologies
 
 #### Cloud & MLOps
-!AWS
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-![GitLab CI/CD](https://img.shields.io/badge/GitLab_CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
-![Prefect](https://img.shields.io/badge/Prefect-0052FF?style=for-the-badge&logo=prefect&logoColor=white)
-
+* AWS
+* GCP
+* Docker
+* Kubernetes
+* Terraform
+* GitLab CI/CD
+* Prefect
 #### Generative AI & NLP
-![LangChain](https://img.shields.io/badge/LangChain-008639?style=for-the-badge)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=hugging-face&logoColor=black)
-![FAISS](https://img.shields.io/badge/FAISS-4A90E2?style=for-the-badge)
+* LangChain
+* OpenAI
+* Hugging Face
+* FAISS
 
 #### Machine Learning & Data Science
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
